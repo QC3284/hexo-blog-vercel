@@ -1,0 +1,47 @@
+- links_category: Elites
+  has_thumbnail: true
+  list:
+      - name: EvanNotFound's Blog
+        link: https://ohevan.com
+        description: 用香港记者的速度更新文章
+        avatar: https://evan.beee.top/avatar.png
+        thumbnail: https://img1.imgtp.com/2023/06/19/Jegvz84P.png # has_thumbnail 为 true 时才需要
+ 
+- links_category: Normal
+  has_thumbnail: true
+  list:
+      - name: Firpe Project
+        link: https://firpe.cn
+        description: 也许是最适合年轻人使用的第三方WinPE~
+        avatar: https://firpe.cn/wp-content/uploads/2024/01/FirPE-V2.0-banner.jpg
+        thumbnail: https://firpe.cn/wp-content/uploads/2024/01/FirPE-V2.0-banner.jpg 
+      - name: 萌社区
+        link: https://moe.one
+        description: 萌主们的聚居地！
+        avatar: https://moe.one/view/img/ico64.png
+        thumbnail: https://cdn2.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-15-59.png
+      - name: 萌盘
+        link: https://pan.moe
+        description: 萌盘 || 萌社区网盘
+        avatar: https://moe.one/view/img/ico64.png
+        thumbnail: https://cdn2.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-19-29.png
+      - name: Alist
+        link: https://alist.nn.ci/zh
+        description: 🗂️ 一个支持多种存储的文件列表程序，使用 Gin 和 Solidjs
+        avatar: https://alist.nn.ci/logo.svg
+        thumbnail: https://cdn2.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-22-06.png
+      - name: iStoreOS
+        link: https://istoreos.com
+        description: 一个人人会用的路由存储系统
+        avatar: https://site.istoreos.com/_nuxt/img/icon_iStoreOS@3x.004ccc3.png
+        thumbnail: https://cdn2.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-25-13.png
+      - name: yukaidi的小站
+        link: https://yukaidi.top
+        description: yukaidi的小站
+        avatar: https://lcap-static-saas.nos-eastchina1.126.net/app/logo_20241013202613688.png
+        thumbnail: https://cdn2.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-25-28.png
+      - name: HotPE工具箱
+        link: https://hotpe.top
+        description: 一个纯净、强大、优雅的PE工具箱
+        avatar: https://jsd.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-34-46.png
+        thumbnail: https://cdn2.xcqcoo.top/gh/QC3284/233@main/PixPin_2025-03-08_22-31-57.png
