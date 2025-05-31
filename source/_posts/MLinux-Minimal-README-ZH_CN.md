@@ -7,7 +7,7 @@ tags:
 
 # MLinux Minimal - 微型 Linux 发行版  
 
-<img src="https://ghproxy.xcqcoo.top/https://raw.githubusercontent.com/mlinux-project/.github/main/images/mlinux-minimal.svg" width="25%" alt="MLinux Minimal">  
+<img src="https://ghproxy2.xcqcoo.top/https://raw.githubusercontent.com/mlinux-project/.github/main/images/mlinux-minimal.svg" width="25%" alt="MLinux Minimal">  
 
 ## 依赖项  
 
@@ -252,7 +252,7 @@ qemu-system-x86_64 -m 1024 -kernel vmlinuz
 
 ## 版权  
 
-MLinux Minimal 遵循 **GPL 2.0** 协议，详见 [LICENSE](https://jsd.xcqcoo.top/mlinux-project/minimal@main/LICENSE)。  
+MLinux Minimal 遵循 **GPL 2.0** 协议，详见 [LICENSE](https://ghproxy2.xcqcoo.top/mlinux-project/minimal@main/LICENSE)。  
 
 ## 下载  
 

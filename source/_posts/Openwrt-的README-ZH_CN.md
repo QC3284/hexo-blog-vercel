@@ -4,7 +4,7 @@ date: 2024-08-08 12:41:32
 tags:
 ---
 
-![OpenWrt logo](https://jsd.xcqcoo.top/gh/openwrt/openwrt@main/include/logo.png)  
+![OpenWrt logo](https://cdn3.xcqcoo.top/jsd/gh/openwrt/openwrt@main/include/logo.png)  
 
 OpenWrt 项目是一个面向嵌入式设备的 Linux 操作系统。它并非提供单一的静态固件，而是通过完全可写的文件系统与包管理机制，赋予用户自由选择应用和配置的能力。这意味着您可以摆脱厂商预置的限制，通过安装软件包定制设备功能，满足任何应用场景需求。对于开发者，OpenWrt 提供了一个无需构建完整固件的开发框架；对于用户，则意味着能够以厂商未曾设想的方式实现设备的全面定制。  
 

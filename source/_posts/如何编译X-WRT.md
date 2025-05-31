@@ -63,7 +63,7 @@ make menuconfig
 #2 进入 Target Profile 选择需要编译打包的设备型号，选择型号后立刻退出，保存
 ```
 
-![](https://jsd.xcqcoo.top/gh/x-wrt/x-wrt.github.io@master/docs/build/build-target.png)
+![](https://cdn3.xcqcoo.top/jsd/gh/x-wrt/x-wrt.github.io@master/docs/build/build-target.png)
 
 ```sh
 #3 执行下面的命令修复 .config
@@ -109,7 +109,7 @@ feeds/x/rom/lede/config.x86_generic
 在上述准备好的模版配置文件的基础上，执行`make menuconfig`命令进行个性化定制，增删应用。
 
 定位到各个子菜单，选择对应的软件包
-![](https://jsd.xcqcoo.top/gh/x-wrt/x-wrt.github.io@master/docs/build//build-m.png)
+![](https://cdn3.xcqcoo.top/jsd/gh/x-wrt/x-wrt.github.io@master/docs/build//build-m.png)
 
 ## 3. 执行编译
 命令:
