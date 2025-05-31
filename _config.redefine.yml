@@ -29,7 +29,7 @@ defaults:
   # Site logo
   logo:
   # Site avatar
-  avatar: https://cdn2.xcqcoo.top/gh/QC3284/233@main/yinlang.jpg # /images/redefine-avatar.svg
+  avatar: https://cdn3.xcqcoo.top/jsd/gh/QC3284/233@main/yinlang.jpg # /images/redefine-avatar.svg
 # IMAGE CONFIGURATION <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<< end
 
 
@@ -125,8 +125,8 @@ home_banner:
   style: fixed # static or fixed
   # Home banner image
   image:
-    light: https://api2-erciyuan-image.xcqcoo.top # light mode
-    dark: https://api2-erciyuan-image.xcqcoo.top # dark mode
+    light: https://api3-erciyuan-image.xcqcoo.top # light mode
+    dark: https://api3-erciyuan-image.xcqcoo.top # dark mode
   # Home banner title
   title: QC3284's blog
   # Home banner subtitle
@@ -209,9 +209,9 @@ navbar:
         Github文件加速: https://ghproxy.xcqcoo.top
         Jsdelivr加速: https://jsd.xcqcoo.top
         Docker镜像加速: https://registry.xcqcoo.top
-        Github文件加速（优选）: https://ghproxy2.xcqcoo.top
-        Jsdelivr加速（优选）: https://jsd2.xcqcoo.top
-        Docker镜像加速（优选）: https://registry2.xcqcoo.top
+        Github文件加速（CF优选）: https://ghproxy2.xcqcoo.top
+        Jsdelivr加速（CF优选）: https://jsd2.xcqcoo.top
+        Docker镜像加速（CF优选）: https://registry2.xcqcoo.top
         Proxy代理加速: https://proxy.xcqcoo.top
 
     Links:
@@ -260,7 +260,7 @@ home:
     enable: true # Whether to enable sidebar
     position: left # Sidebar position. left, right
     first_item: menu # First item in sidebar. menu, info
-    announcement: 欢迎来到我的博客，我会不定时的更新！ # Announcement text
+    announcement: 欢迎来到我的博客！ # Announcement text
     show_on_mobile: true # Whether to show sidebar navigation on mobile sheet menu
     links:
       # Archives: 
@@ -418,7 +418,7 @@ footer:
   # Site statistics
   statistics: true # show site statistics or not (total articles, total words)
   # Footer message
-  customize: <script src="https://cdn2.xcqcoo.top/gh/QC3284/233@main/blog_live2d_v4.js"></script>
+  customize: <script src="https://cdn3.xcqcoo.top/jsd/gh/QC3284/233@latest/blog_live2d_v4.js"></script>
   # ICP record number. See https://beian.miit.gov.cn/
   icp:
     enable: true # Whether to enable
@@ -457,11 +457,11 @@ plugins:
     audios:
       - name: Operation Dotabata (Cover)# audio name
         artist: Yokatta # audio artist
-        url: https://cdn2.xcqcoo.top/gh/QC3284/233@main/Operation-DOTABATAmp3.mp3 # audio url
+        url: https://cdn3.xcqcoo.top/jsd/gh/QC3284/233@main/Operation-DOTABATAmp3.mp3 # audio url
         cover: https://p3.music.126.net/0OY08L09cF4UMVnRuHK_BQ==/109951169045313754.jpg?param=300y300 # audio cover url
       - name: Aoharu
         artist: Aice room
-        url: https://cdn2.xcqcoo.top/gh/QC3284/233@main/Aoharu - Aice room.mp3
+        url: https://cdn3.xcqcoo.top/jsd/gh/QC3284/233@main/Aoharu - Aice room.mp3
         cover: https://p3.music.126.net/0OY08L09cF4UMVnRuHK_BQ==/109951169045313754.jpg?param=300y300
       - name: Imagine # audio name
         artist: John Lennon # audio artist
