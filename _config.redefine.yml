@@ -207,7 +207,7 @@ navbar:
       icon: fa-solid fa-gauge
       submenus:
         Github文件加速: https://ghproxy.xcqcoo.top
-         icon: fa-brand fa-github
+        icon: fa-brand fa-github
         Jsdelivr加速: https://jsd.xcqcoo.top
         Docker镜像加速: https://registry.xcqcoo.top
         Github文件加速（CF优选）: https://ghproxy2.xcqcoo.top
