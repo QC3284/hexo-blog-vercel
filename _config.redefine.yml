@@ -52,9 +52,9 @@ global:
   fonts:
     # Chinese fonts
     chinese:
-      enable: false # Whether to enable custom chinese fonts
-      family:  # Font family
-      url:  # Font URL to CSS file
+      enable: true # Whether to enable custom chinese fonts
+      family: "Noto Sans SC" # Font family
+      url: https://fonts.geekzu.org/css2?family=Noto+Sans+SC&display=swap # Font URL to CSS file
     # English fonts
     english:
       enable: false # Whether to enable custom english fonts
