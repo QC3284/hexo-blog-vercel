@@ -62,9 +62,9 @@ global:
       url:  # Font URL to CSS file
     # Custom title fonts (navbar, sidebar)
     title:
-      enable: false # Whether to enable custom title fonts
-      family:  # Font family
-      url:  # Font URL to CSS file
+      enable: true # Whether to enable custom title fonts
+      family: "Noto Sans SC" # Font family
+      url: https://fonts.geekzu.org/css2?family=Noto+Sans+SC&display=swap # Font URL to CSS file
   # Content max width
   content_max_width: 1000px
   # Sidebar width
@@ -157,11 +157,11 @@ home_banner:
   # Home banner custom font
   custom_font:
     # Whether to enable custom font
-    enable: false
+    enable: true
     # Font family
-    family:
+    family: "Noto Sans SC"
     # URL to font CSS file
-    url:
+    url: https://fonts.geekzu.org/css2?family=Noto+Sans+SC&display=swap
   # Home banner social links
   social_links:
     # Whether to enable
@@ -207,6 +207,7 @@ navbar:
       icon: fa-solid fa-gauge
       submenus:
         Github文件加速: https://ghproxy.xcqcoo.top
+         icon: fa-brand fa-github
         Jsdelivr加速: https://jsd.xcqcoo.top
         Docker镜像加速: https://registry.xcqcoo.top
         Github文件加速（CF优选）: https://ghproxy2.xcqcoo.top
