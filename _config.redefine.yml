@@ -515,7 +515,7 @@ page_templates:
 # Docs: https://redefine-docs.ohevan.com/cdn
 cdn:
   # Whether to enable CDN
-  enable: true
+  enable: false
   # CDN Provider
   provider: npmirror # npmmirror, zstatic, cdnjs, jsdelivr, unpkg, custom
   # Custom CDN URL
