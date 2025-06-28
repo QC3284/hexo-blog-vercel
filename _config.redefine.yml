@@ -208,10 +208,9 @@ navbar:
       submenus:
         Github文件加速: https://ghproxy.xcqcoo.top
         Jsdelivr加速: https://jsd.xcqcoo.top
-        Docker镜像加速: https://registry.xcqcoo.top
         Github文件加速（CF优选）: https://ghproxy2.xcqcoo.top
         Jsdelivr加速（CF优选）: https://jsd2.xcqcoo.top
-        Docker镜像加速（CF优选）: https://registry2.xcqcoo.top
+        Docker镜像加速: https://help-docker.xcqcoo.top
         Proxy代理加速: https://proxy.xcqcoo.top
 
     Links:
